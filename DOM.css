@@ -1,0 +1,15 @@
+
+.normal{
+    color: pink;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+    background-color: navy;
+}
+
+.highlight{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:17px;
+    background-color: red;
+    border: double 15px black;
+}

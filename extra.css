@@ -1,0 +1,51 @@
+/*link to exerciseday1.html
+
+#h1{color:antiquewhite;
+    font-size:75px;
+    text-decoration:underline;
+    width:40px;
+    border:
+    
+    }
+
+
+
+
+#bob{ width:500px; height:50px}
+
+#good{color:brown;
+      width:75px;}
+
+body{background-color:rgb(66, 66, 141);color:darkorange}
+
+ol{list-style-type: decimal-leading-zero;}
+
+ul{list-style-type:square;}
+
+#lii{list-style-image:url("images/star.jpg")} */
+
+/*table*/
+
+#tack{border-style:solid;
+
+
+}
+
+
+#grid{
+    z-index:10;
+    width:0px auto 0px auto;
+    height:1000px;
+  
+
+
+}
+
+.column{background-color:rgb(78, 78, 78);
+        opacity:0.8;
+        width:060px;
+        height:100%;
+        z-index:15;
+        position:fixed;
+    
+    }
